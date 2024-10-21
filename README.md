@@ -1,3 +1,19 @@
+### OUTPUT
+
+## Lambda function
+![sls-1](https://github.com/user-attachments/assets/da50b131-2550-4b25-a099-4af5e0144a1c)
+
+## s3 output bucket
+![sls-2](https://github.com/user-attachments/assets/945b0138-68c1-4120-8255-a405d2ccfbfd)
+
+## s3 input bucket
+![sls-3](https://github.com/user-attachments/assets/b6aeb1ae-cddc-4700-93e2-8d3bb16873e3)
+
+## Cloudwatch information
+![sls-4](https://github.com/user-attachments/assets/7768a4b7-f8a3-40ec-9838-1cf084653bb0)
+
+
+
 ### Serverless Lambda S3 Demonstration
 
 This project demonstrates how the [Serverless Framework](https://serverless.com/) can be used to deploy a NodeJS Lambda function that responds to events in an S3 bucket.
